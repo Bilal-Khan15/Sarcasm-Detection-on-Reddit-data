@@ -1,0 +1,9 @@
+flask
+flask_cors
+pandas
+numpy
+sklearn.model_selection
+sklearn.feature_extraction.text
+sklearn.linear_model
+sklearn.metrics
+pickle
